@@ -1,8 +1,8 @@
 
 # cookie.js 
-> * [Installation](#Installation)
-> * [Usage](#Usage)
-> * [Contributing](#Contributing)
+> * [Installation](#installation)
+> * [Usage](#usage)
+> * [Contributing](#contributing)
 
 ---
 Simple and light javascript functions for handling cookies, such as the [jquery-cookie](https://github.com/carhartl/jquery-cookie/) project, but without the need of the Jquery library.
