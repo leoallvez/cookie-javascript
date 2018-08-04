@@ -49,7 +49,6 @@ function getCookie(name) {
     // Returns only the value of the cookie
     return decodeURI(cookies);
 }
-
 /**
 *  Delete the cookie
 *  @param {string} name - The cookie name as the parameter you want to delete
